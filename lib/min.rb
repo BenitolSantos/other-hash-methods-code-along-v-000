@@ -10,6 +10,7 @@ require 'pry'
 
 def get_the_min(groceries)
   #code your solution here!
-  #
+  #in order to find the first of the values alphabetically...
+  #we just use the flattened values array 
 
 end
