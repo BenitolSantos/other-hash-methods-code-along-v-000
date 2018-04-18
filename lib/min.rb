@@ -10,7 +10,6 @@ require 'pry'
 
 def get_the_min(groceries)
   #code your solution here!
-  #flatten already flattened the array
-  ##=> ["milk", "yogurt", "cheese", "carrots", "broccoli", "cucumbers", "chicken", "steak", "salmon", "rice", "pasta"]
-  
+  #
+
 end
