@@ -11,4 +11,6 @@ require 'pry'
 def get_the_values(groceries)
   #code your solution here!
   groceries.values #.values is a method for getting all the values.
+  groceries.keys #.keys is a method for getting all the values.
+  
 end
